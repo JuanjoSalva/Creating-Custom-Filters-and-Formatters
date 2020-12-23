@@ -2,8 +2,10 @@ al buscar una foto
 
 https://localhost:5001/api/passenger/photo/1
 
-Noa devuleve el json con los datos
-
+Nos devuleve el json con los datos
+![5](https://github.com/JuanjoSalva/Creating-Custom-Filters-and-Formatters/blob/master/img/json.PNG)
 
 Implementramos un formatter para que, en vez de devilva el json, devuelva laimagen.
-![5](E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\img\5.PNG)
+https://localhost:5001/api/passenger/photo/5
+
+![5](https://github.com/JuanjoSalva/Creating-Custom-Filters-and-Formatters/blob/master/img/5.PNG)
